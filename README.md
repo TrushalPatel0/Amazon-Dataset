@@ -35,7 +35,7 @@ Delivery Time: Indicates the duration between order placement and delivery, help
 
 
 -------
-## Access Live Dashboard - [https://lnkd.in/grC84WiN]([url](https://lnkd.in/grC84WiN))
+## Access Live Dashboard - [VIEW This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true)
 -------
 
 <img width="1064" alt="1" src="https://github.com/TrushalPatel0/Amazon-Dataset/assets/144200919/a0113167-8be2-42da-8667-f36a8945e265">
