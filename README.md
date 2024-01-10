@@ -4,6 +4,22 @@
 
 The Amazon Orders Dataset provides a comprehensive view of the company's sales transactions, capturing essential details from order creation to delivery. This valuable dataset serves as a treasure trove for business analysts, enabling them to derive insights into customer behavior, optimize supply chain management, and enhance overall business performance.
 
+
+---------
+### Business Case Study:
+
+Use Case 1: Demand Forecasting and Inventory Management
+
+By analyzing historical order data, Amazon can predict future demand for specific products and optimize inventory levels accordingly. This reduces the risk of stockouts, minimizes excess inventory, and improves overall supply chain efficiency.
+
+Use Case 2: Customer Segmentation and Personalization
+
+Understanding customer preferences based on order history allows Amazon to create targeted marketing campaigns and personalized recommendations. This enhances customer experience, increases customer loyalty, and drives repeat business.
+
+Use Case 3: Operational Efficiency and Cost Optimization
+
+Analyzing order processing and delivery times helps identify bottlenecks in the supply chain. By optimizing these processes, Amazon can reduce operational costs, improve delivery speed, and enhance customer satisfaction.
+
 ----------
 ### Fields Information:
 
@@ -47,18 +63,11 @@ Delivery Time: Indicates the duration between order placement and delivery, help
 <img width="1061" alt="3" src="https://github.com/TrushalPatel0/Amazon-Dataset/assets/144200919/e9c8b4aa-e032-464f-9ded-0272e744a5a0">
 
 
----------
-### Business Case Study:
 
-Use Case 1: Demand Forecasting and Inventory Management
+-------------
+For More Information
+Please review the full analysis in the [final notebook](https://github.com/TrushalPatel0/Earthquake/blob/master/EquakeDamagePred.ipynb).
 
-By analyzing historical order data, Amazon can predict future demand for specific products and optimize inventory levels accordingly. This reduces the risk of stockouts, minimizes excess inventory, and improves overall supply chain efficiency.
+For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
 
-Use Case 2: Customer Segmentation and Personalization
-
-Understanding customer preferences based on order history allows Amazon to create targeted marketing campaigns and personalized recommendations. This enhances customer experience, increases customer loyalty, and drives repeat business.
-
-Use Case 3: Operational Efficiency and Cost Optimization
-
-Analyzing order processing and delivery times helps identify bottlenecks in the supply chain. By optimizing these processes, Amazon can reduce operational costs, improve delivery speed, and enhance customer satisfaction.
 
