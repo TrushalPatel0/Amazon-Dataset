@@ -8,17 +8,27 @@ The Amazon Orders Dataset provides a comprehensive view of the company's sales t
 ---------
 ### Business Case Study:
 
-Use Case 1: Demand Forecasting and Inventory Management
 
-By analyzing historical order data, Amazon can predict future demand for specific products and optimize inventory levels accordingly. This reduces the risk of stockouts, minimizes excess inventory, and improves overall supply chain efficiency.
+**Category-wise Analysis:**
 
-Use Case 2: Customer Segmentation and Personalization
+Understand the performance of different product categories in terms of sales, quantity, and profitability.<br/>
+Identify top-performing and underperforming categories to guide inventory and marketing strategies.Allocate resources and marketing efforts based on the performance of each category.<br/>
+Optimize inventory levels to meet demand fluctuations in high-performing categories.
 
-Understanding customer preferences based on order history allows Amazon to create targeted marketing campaigns and personalized recommendations. This enhances customer experience, increases customer loyalty, and drives repeat business.
+**Date-wise and City/State-wise Analysis:**
 
-Use Case 3: Operational Efficiency and Cost Optimization
+Uncover patterns in sales and order quantities based on order dates.<br/>
+Explore regional variations in customer behavior and preferences.Seasonal trends were observed, with increased sales during holidays and special occasions.<br/>
+Certain cities and states demonstrated higher order quantities, indicating regional preferences.<br/>
+Varied delivery times were noted across regions, influencing customer satisfaction.
 
-Analyzing order processing and delivery times helps identify bottlenecks in the supply chain. By optimizing these processes, Amazon can reduce operational costs, improve delivery speed, and enhance customer satisfaction.
+**Product-wise Analysis:**
+
+Evaluate the performance of individual products in terms of sales, profit/loss, orders, and estimated delivery time.<br/>
+Identify top-performing products and potential areas for improvement.<br/>
+High-profit margin products were identified, suggesting opportunities for pricing adjustments.<br/>
+Some products exhibited longer estimated delivery times, impacting customer satisfaction.<br/>
+Best-selling products were recognized, enabling focused marketing efforts.
 
 ----------
 ### Fields Information:
@@ -51,22 +61,19 @@ Delivery Time: Indicates the duration between order placement and delivery, help
 
 
 -------
-## Access Live Dashboard - [VIEW This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true)
+## Access Live Dashboard - [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true)
 -------
 
 <img width="1064" alt="1" src="https://github.com/TrushalPatel0/Amazon-Dataset/assets/144200919/a0113167-8be2-42da-8667-f36a8945e265">
-
-
+<br /><br/>
 <img width="1062" alt="2" src="https://github.com/TrushalPatel0/Amazon-Dataset/assets/144200919/74059ca4-3bd7-4d8b-bf4d-89c1d1b8bdc1">
-
-
+<br /><br/>
 <img width="1061" alt="3" src="https://github.com/TrushalPatel0/Amazon-Dataset/assets/144200919/e9c8b4aa-e032-464f-9ded-0272e744a5a0">
-
 
 
 -------------
 For More Information
-Please review the full analysis in the [final notebook](https://github.com/TrushalPatel0/Earthquake/blob/master/EquakeDamagePred.ipynb).
+Please review the full analysis in the [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true).
 
 For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
 
